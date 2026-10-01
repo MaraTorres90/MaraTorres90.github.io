@@ -1,0 +1,28 @@
+PORTAFOLIO DE MAARABID TORRES
+Código y recursos de la versión publicada el 1 de octubre de 2026.
+
+CONTENIDO
+- index.html: página completa, textos, estilos CSS y JavaScript de los filtros.
+- portrait-maarabid.png: fotografía del portafolio.
+- logos/: imágenes de las herramientas.
+
+CÓMO VERLO EN TU COMPUTADORA
+Descomprime el ZIP completo y abre index.html en tu navegador.
+Conserva la fotografía y la carpeta logos junto a index.html.
+
+CÓMO PUBLICARLO EN OTRO HOSTING
+1. Elige la opción de sitio estático de tu proveedor.
+2. Sube index.html, portrait-maarabid.png y la carpeta logos a la carpeta pública del sitio.
+3. index.html debe quedar en la raíz pública, no dentro de otra carpeta adicional.
+4. No necesitas instalar paquetes, ejecutar una compilación ni configurar una base de datos.
+5. Si te piden una carpeta de publicación, selecciona la que contiene index.html.
+6. Comprueba la foto, los logos, los filtros y los enlaces desde la nueva URL.
+
+CÓMO EDITAR
+Abre index.html con un editor de texto o de código. Los textos y enlaces están en el HTML, los colores y estilos dentro de <style>, y el funcionamiento de los filtros dentro de <script>. Guarda y vuelve a subir el archivo modificado.
+
+EVIDENCIAS
+Los documentos y videos siguen enlazados a Google Drive y el código de los proyectos a GitHub; no están copiados dentro de este ZIP. Su acceso depende de los permisos de esos servicios. Urban Scooter enlaza el video, sin enlazar la carpeta con teoría de entrevistas.
+
+INDEPENDENCIA
+La página es HTML, CSS y JavaScript estáticos. No necesita iniciar sesión en ChatGPT ni conectarse a ChatGPT para funcionar en otro hosting. El proveedor nuevo asignará otra URL, salvo que configures un dominio propio. Exportar estos archivos no elimina ni modifica la página publicada actualmente.
